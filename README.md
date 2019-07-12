@@ -1,6 +1,8 @@
 # rabbitmq
 Bastille Template for RabbitMQ jail
 
+ STATUS: Testing`
+
 RabbitMQ is a message queue system. It lets computer programs send each 
 other work to do, without waiting for them to do it.
 
